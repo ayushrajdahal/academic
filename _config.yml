@@ -11,8 +11,8 @@ title                    : "Ayush Raj Dahal"
 title_separator          : "-"
 name                     : &name "Ayush Raj Dahal"
 description              : &description "ML & Data Science"
-url                      : https://ayushraj.com.np # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : https://ayushrajdahal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/academic" # the subpath of your site, e.g. "/blog"
 repository               : "ayushrajdahal/ayushrajdahal.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ayush Raj Dahal"
-  avatar           : "dp2-color-lowres.jpeg"
+  avatar           : "/images/dp2-color-lowres.jpeg"
   bio              : "ML & Data Science"
   location         : "Kathmandu, Nepal"
   employer         :
