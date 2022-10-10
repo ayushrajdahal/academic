@@ -6,6 +6,6 @@ collection: portfolio
 
 An Application That Estimates Breathing Rate Through Unmodified Smartphones Using Accelerometer Data
 
-Algorithms Used: Fourier Transform, Hilbert Transform
+Algorithms Used: Fast Fourier Transform, Hilbert Transform
 
-[Link to the project]()
+<a href="" target="_blank">Link to the project</a>
