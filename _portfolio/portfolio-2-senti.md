@@ -4,6 +4,8 @@ excerpt: "Sentiment Analysis of Nepali Tweets using state-of-the-art Machine Lea
 collection: portfolio
 ---
 
+<img src="{{ site.url }}{{ site.baseurl }}/images/sentiments.png" alt="">
+
 **Sentiment Analysis of Nepali Tweets using state-of-the-art Machine Learning models**
 
 - Fetched tweets using the Twitter API

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Machine Learning practitioner, Data Analyst, and Backend Web Developer from Nepal who loves bringing ideas to life. I am currently a Data Science Fellow at [Code for Nepal](https://codefornepal.org/) and Junior Deep Learning Researcher at [LBR](https://in.linkedin.com/company/learnbyresearch).
+I am a Machine Learning practitioner, Data Analyst, and Backend Web Developer from Nepal who loves bringing ideas to life. Currently, I am working as a Junior Deep Learning Researcher at [LBR](https://in.linkedin.com/company/learnbyresearch) and Data Science Fellow at [Code for Nepal](https://www.linkedin.com/company/code-for-nepal/about/).
 
 Previously, I worked as a Lead Data Analyst and Machine Learning Developer during my fellowship at [Incubate Nepal](https://incubatenepal.com/).
 
