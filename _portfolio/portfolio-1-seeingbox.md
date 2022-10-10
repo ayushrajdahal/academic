@@ -1,7 +1,9 @@
 ---
 title: "SeeingBox"
-excerpt: "An IoT Blind Assistance System for the visually impaired made using Python and Microsoft Azure Cognitive Services."
+excerpt: "A Blind Assistance System for the visually impaired made using Python and Microsoft Azure Cognitive Services."
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Point the Seeing Box, push the button, and it will tell you what it sees. This project was built using a Raspberry Pi and has a practical side for the vision impaired. It uses Microsoft Cognitive Services API, and hence, requires an internet connection. Yes, "there is an app for that," but the form factor is much cooler and the cost less than a smartphone as it is based on the $10 Raspberry Pi Zero W.
+
+[Link to the project](https://github.com/ayushrajdahal/SeeingBox)

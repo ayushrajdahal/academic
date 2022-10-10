@@ -1,7 +1,11 @@
 ---
 title: "Saas App"
-excerpt: "A Smartphone Application That Estimates Breathing Rate Through Unmodified Smartphones By Using Accelerometer Data"
+excerpt: "An Application That Estimates Breathing Rate Through Unmodified Smartphones Using Accelerometer Data"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+An Application That Estimates Breathing Rate Through Unmodified Smartphones Using Accelerometer Data
+
+Algorithms Used: Fourier Transform, Hilbert Transform
+
+[Link to the project]()
