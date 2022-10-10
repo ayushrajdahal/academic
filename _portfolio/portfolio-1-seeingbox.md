@@ -8,4 +8,4 @@ Point the Seeing Box, push the button, and it will tell you what it sees. This p
 
 `Tools Used: Python, Bash, Raspberry Pi, Microsoft Azure`
 
-<a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">Link to the project</a>
+<a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">[Link to the project]</a>

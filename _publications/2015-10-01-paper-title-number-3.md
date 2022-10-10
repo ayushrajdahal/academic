@@ -8,6 +8,5 @@ date: 2022-10-01
 #paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Ayush Raj Dahal, Animesh Shrestha, Bidhata Pathak, Bipashwi Nepal, Lalit Yadav (2022).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
 [Download paper here]()

@@ -8,6 +8,5 @@ date: 2022-10-03
 #paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 #citation: 'Ayush Raj Dahal, Kriti Sahu, Manish Acharya, Pratyush Bhattarai, Priyaanka Karki, Veer Kamati (2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here]()
