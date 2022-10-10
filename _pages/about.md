@@ -12,7 +12,7 @@ I am a Machine Learning practitioner, Data Analyst, and Backend Web Developer fr
 
 Previously, I worked as a Lead Data Analyst and Machine Learning Developer during my fellowship at [Incubate Nepal](https://incubatenepal.com/).
 
-Apart from Data Science and Machine Learning, I am also passionate about HCI (Human-Computer Interaction) and have worked on two HCI projects ([SeeingBox](https://github.com/dhaydoo/SeeingBox) and [Project Saas](https://projectsaas.info)) related to Blind Assistance and Healthcare.
+Apart from Data Science and Machine Learning, I also have a keen interest in HCI (Human-Computer Interaction) and have worked on HCI projects related to [Blind Assistance](https://github.com/dhaydoo/SeeingBox) and [Healthcare](https://projectsaas.info)).
 
 
 

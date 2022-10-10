@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Nepali Twitter Sentiment Analysis"
+excerpt: "Sentiment Analysis of Nepali Tweets using state-of-the-art pretrained Machine Learning models"
 collection: portfolio
 ---
 
