@@ -1,6 +1,6 @@
 ---
 title: "Stock Prediction"
-excerpt: "An Attempt to Predict US Stock Market Prices using Deep Learning"
+excerpt: "Predicting US Stock Market Prices using Deep Learning"
 collection: portfolio
 ---
 

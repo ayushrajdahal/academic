@@ -9,7 +9,7 @@ collection: portfolio
 - Fetched tweets using the Twitter API
 - Preprocessed each tweet's text (removed links, 'RT's, etc.)
 - Detected the language, then translated all Nepali tweets into English
-- Used Machine Learning models to classify the sentiment of processed tweets into 3 categories (positive, negative, and neutral).
+- Used Natural Language Processing models to classify the sentiment of processed tweets into 3 categories (Positive, Negative, and Neutral).
 - Kept the most likely sentiment and its corresponding probability in a CSV file
 
 
@@ -19,7 +19,7 @@ collection: portfolio
 - [Flair TextClassifier](https://github.com/flairNLP/flair)
 - [TextBlob Polarity](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
 
-A sample output of this project can be found <a href="https://docs.google.com/spreadsheets/d/1wGrKnm1Tm5W2G0UC0bZLfRula_YMyDyAkOn1f_yYNFI/edit?usp=sharing" target="_blank">here</a>.
+<a href="https://docs.google.com/spreadsheets/d/1wGrKnm1Tm5W2G0UC0bZLfRula_YMyDyAkOn1f_yYNFI/edit?usp=sharing" target="_blank">Here</a> is a sample output for this project, where I have classified sentiments of K.P. Sharma Oli's last \~200 tweets.
 
 `Tools Used: Python, PyTorch, Transformers, SciPy, Tweepy, Pandas, TextBlob, Flair, langdetect, googletrans`
 

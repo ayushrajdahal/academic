@@ -1,6 +1,6 @@
 ---
 title: "SeeingBox"
-excerpt: "A Blind Assistance System for the visually impaired made using Python and Microsoft Azure Cognitive Services."
+excerpt: "An IoT Blind Assistance System for the visually impaired made using Python and Microsoft Azure Cognitive Services."
 collection: portfolio
 ---
 
