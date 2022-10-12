@@ -6,8 +6,10 @@ collection: portfolio
 
 A Smartphone Application That Estimates Breathing Rate Using Accelerometer Data
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/saas1.png" alt="", width="200">
-<img src="{{ site.url }}{{ site.baseurl }}/images/saas2.png" alt="", width="200">
+<p float="left">
+	<img src="{{ site.url }}{{ site.baseurl }}/images/saas1.png" alt="", width="200" />
+	<img src="{{ site.url }}{{ site.baseurl }}/images/saas2.png" alt="", width="200" />
+</p>
 
 `Algorithms Used: Fast Fourier Transform, Hilbert Transform`
 
