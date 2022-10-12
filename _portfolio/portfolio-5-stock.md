@@ -1,7 +1,13 @@
 ---
-title: "Stock Prediction"
+title: "Stock Price Prediction"
 excerpt: "Predicting US Stock Market Prices using Deep Learning"
 collection: portfolio
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="{{ site.url }}{{ site.baseurl }}/images/stocks.png" alt="">
+
+Predicting US Stock Market Prices using Deep Learning
+
+`Tools Used: Python, TensorFlow, Scikit-Learn, Pandas`
+
+<a href="" target="_blank">[Link to the project]</a>
