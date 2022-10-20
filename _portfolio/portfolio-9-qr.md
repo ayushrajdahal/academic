@@ -14,4 +14,4 @@ Demo:
 
 `Tools Used: JavaScript, React, CSS`
 
-<a href="" target="_blank">[Link to the web app]</a>
+<!-- <a href="" target="_blank">[Link to the web app]</a> -->

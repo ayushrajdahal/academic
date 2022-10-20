@@ -9,4 +9,8 @@ date: 2022-10-03
 #citation: 'Ayush Raj Dahal, Kriti Sahu, Manish Acharya, Pratyush Bhattarai, Priyaanka Karki, Veer Kamati (2022).'
 ---
 
-[Download paper here]()
+<!-- [Download paper here]() -->
+
+Preview:
+
+<img src="{{ site.url }}{{ site.baseurl }}/images/saas-paper.png" alt="" />
