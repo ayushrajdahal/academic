@@ -13,6 +13,8 @@ A Smartphone Application That Estimates Breathing Rate Using Accelerometer Data
 
 `Algorithms Used: Fast Fourier Transform, Hilbert Transform`
 
+<a href="{{ site.url }}{{ site.baseurl }}/publication/2009-10-01-paper-title-number-1" target="_blank">[Research Paper]</a>
+
 <a href="" target="_blank">[Link to the Application]</a>
 
 <a href="https://github.com/ayushrajdahal/BreathingRateAlgorithms" target="_blank">[Proof of Concept for FFT and Peak Count Algorithms]</a>
