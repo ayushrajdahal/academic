@@ -6,8 +6,10 @@ collection: portfolio
 
 <img src="https://miro.medium.com/max/1400/1*IHFWjNRir6TfKenzwK16bg.png" alt="" width="500">
 
-Point the Seeing Box, push the button, and it will tell you what it sees. This project was built using a Raspberry Pi and has a practical side for the vision impaired. It uses Microsoft Cognitive Services API, and hence, requires an internet connection. Yes, "there is an app for that," but the form factor is much cooler and costs much less than a smartphone as it is based on the $10 Raspberry Pi Zero W.
+Point the Seeing Box, push the button, and it will tell you what it sees. SeeingBox is a Raspberry pi-based Blind Assistance System Prototype that describes the Object/Scene in front of its Camera via Audio. It uses Microsoft Cognitive Services API, and hence, requires an internet connection.
 
 `Tools Used: Python, Bash, Raspberry Pi, Microsoft Azure`
 
-<a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">[Link to GitHub Repository]</a>
+<a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">[Demo]</a>
+
+<a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">[Code]</a>

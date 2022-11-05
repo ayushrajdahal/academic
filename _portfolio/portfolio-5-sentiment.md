@@ -8,6 +8,10 @@ collection: portfolio
 
 **Sentiment Analysis of Nepali Tweets using state-of-the-art Machine Learning models**
 
+This was a Notebook I made for [Project Sanjal](https://www.sanzal.com), demonstrating my approach for classifying sentiments of Non-English Tweets.
+
+What I have done in the Notebook:
+
 - Fetched tweets using the Twitter API
 - Preprocessed each tweet's text (removed links, 'RT's, etc.)
 - Detected the language, then translated all Nepali tweets into English
