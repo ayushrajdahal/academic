@@ -8,9 +8,9 @@ collection: portfolio
 
 **Sentiment Analysis of Nepali Tweets using state-of-the-art Machine Learning models**
 
-This was a Notebook I made for [Project Sanjal](https://www.sanzal.com), demonstrating my approach for classifying sentiments of Non-English Tweets.
+This was a Notebook I made for <a href="https://www.sanzal.com" target="_blank">Project Sanzal</a> where I demonstrated my approach of classifying Sentiments of Non-English Tweets - which was later used in the project.
 
-What I have done in the Notebook:
+**What I have done in this Notebook:**
 
 - Fetched tweets using the Twitter API
 - Preprocessed each tweet's text (removed links, 'RT's, etc.)
@@ -25,7 +25,7 @@ What I have done in the Notebook:
 - [Flair TextClassifier](https://github.com/flairNLP/flair)
 - [TextBlob Polarity](https://textblob.readthedocs.io/en/dev/quickstart.html#sentiment-analysis)
 
-<a href="https://docs.google.com/spreadsheets/d/1wGrKnm1Tm5W2G0UC0bZLfRula_YMyDyAkOn1f_yYNFI/edit?usp=sharing" target="_blank">Here</a> is a sample output for this project, where I have classified sentiments of K.P. Sharma Oli's last \~200 tweets.
+<a href="https://docs.google.com/spreadsheets/d/1wGrKnm1Tm5W2G0UC0bZLfRula_YMyDyAkOn1f_yYNFI/edit?usp=sharing" target="_blank">Here</a> is a sample output of this Notebook, where I have classified sentiments of K.P. Sharma Oli's last \~200 tweets.
 
 `Tools Used: Python, PyTorch, Transformers, SciPy, Tweepy, Pandas, TextBlob, Flair, langdetect, googletrans`
 
