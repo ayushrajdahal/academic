@@ -27,6 +27,6 @@ This was a Notebook I made for <a href="https://www.sanzal.com" target="_blank">
 
 <a href="https://docs.google.com/spreadsheets/d/1wGrKnm1Tm5W2G0UC0bZLfRula_YMyDyAkOn1f_yYNFI/edit?usp=sharing" target="_blank">Here</a> is a sample output of this Notebook, where I have classified sentiments of K.P. Sharma Oli's last \~200 tweets.
 
-`Tools Used: Python, PyTorch, Transformers, SciPy, Tweepy, Pandas, TextBlob, Flair, langdetect, googletrans`
+`Tools Used: Python, Transformers, SciPy, Tweepy, Pandas, TextBlob, Flair, langdetect, googletrans`
 
-<a href="https://github.com/ayushrajdahal/NepaliTwitterSentimentAnalysis" target="_blank">[Link to GitHub Repository]</a>
+<a href="https://github.com/ayushrajdahal/NepaliTwitterSentimentAnalysis" target="_blank">[Link to the Notebook]</a>

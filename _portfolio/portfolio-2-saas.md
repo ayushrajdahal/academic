@@ -17,4 +17,4 @@ A Smartphone Application That Estimates Breathing Rate Using Accelerometer Data
 
 <a href="" target="_blank">[Application]</a>
 
-<a href="https://github.com/ayushrajdahal/BreathingRateAlgorithms/blob/master/lowPassPeakCount.ipynb" target="_blank">[Low Pass Approach (notebook)]</a>
+<a href="https://github.com/ayushrajdahal/BreathingRateAlgorithms/blob/master/lowPassPeakCount.ipynb" target="_blank">[Low Pass Approach]</a>
