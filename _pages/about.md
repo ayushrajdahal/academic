@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Software Developer from Nepal specializing in Data Science and Back-end Web Development.
 
-I am currently a Data Science Fellow at <a href="https://www.linkedin.com/company/code-for-nepal/about/" target="_blank">Code for Nepal</a>. Previously, I was working as a Research Scholar at <a href="https://incubatenepal.com/" target="_blank">Incubate Nepal</a> and Junior Researcher at <a href="https://in.linkedin.com/company/learnbyresearch" target="_blank">LBR</a>.
+Currently, I am a Data Science Fellow at <a href="https://www.linkedin.com/company/code-for-nepal/about/" target="_blank">Code for Nepal</a>. I was previously working as a Research Scholar at <a href="https://incubatenepal.com/" target="_blank">Incubate Nepal</a> and Junior Researcher at <a href="https://in.linkedin.com/company/learnbyresearch" target="_blank">LBR</a>.
 
 Over the past year, I have been working on [Research](https://ayushraj.com.np/publications/) and [Software](https://ayushraj.com.np/portfolio/) projects where I was able to use Machine Learning and Algorithm Development to solve problems across multiple domains.
 
