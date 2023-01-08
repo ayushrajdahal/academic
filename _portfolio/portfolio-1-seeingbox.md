@@ -10,6 +10,6 @@ Point the SeeingBox, push the button, and it will tell you what it sees. SeeingB
 
 `Tools Used: Python, Bash, Raspberry Pi, Microsoft Azure`
 
-<a href="https://youtu.be/xsljzyih3ax" target="_blank">[Demo Video]</a>
+<!-- <a href="https://youtu.be/xsljzyih3ax" target="_blank">[Demo Video]</a> -->
 
 <a href="https://github.com/ayushrajdahal/SeeingBox" target="_blank">[Code]</a>
