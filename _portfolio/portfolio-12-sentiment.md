@@ -29,4 +29,4 @@ This was a Notebook I made for <a href="https://www.sanzal.com" target="_blank">
 
 `Tools Used: Python, Transformers, SciPy, Tweepy, Pandas, TextBlob, Flair, langdetect, googletrans`
 
-<a href="[https://github.com/ayushrajdahal/NepaliTwitterSentimentAnalysis](https://github.com/ayushrajdahal/NepaliTwitterSentimentAnalysis/blob/master/Sentiment%20Analysis.ipynb)" target="_blank">[Link to the Notebook]</a>
+<a href="https://github.com/ayushrajdahal/NepaliTwitterSentimentAnalysis/blob/master/Sentiment%20Analysis.ipynb" target="_blank">[Link to the Notebook]</a>
