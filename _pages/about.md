@@ -16,7 +16,7 @@ I am Ayush Raj Dahal, a passionate Software Developer from Nepal specializing in
 
 Over the past few years, I worked on a number of projects and papers where I was able to use Machine Learning and Data Analysis to solve problems across domains ranging from Socioeconomics to HCI (Human-Computer Interaction). So, this website was my attempt to document some of them. 
 
-If you'd like to learn more about me or my projects, or have any crazy idea that you'd like to bring to life, please let me know!
+If you'd like to learn more about me or my projects, or have any crazy idea that you want to bring to life, please let me know!
 
 Get in touch
 ------
